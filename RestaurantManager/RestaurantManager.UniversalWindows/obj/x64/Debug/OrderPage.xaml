@@ -23,9 +23,18 @@
         <TextBlock Grid.Row="1" Grid.Column="1" Text="Special Requests:" VerticalAlignment="Top" HorizontalAlignment="Left"/>
         <TextBlock Grid.Row="1" Grid.Column="2" Text="Order Items:" VerticalAlignment="Top" HorizontalAlignment="Left"/>
 
-        <TextBlock Grid.Row="4" Grid.Column="0" Text="**Add to Order**" VerticalAlignment="Center" HorizontalAlignment="Center"/>
-        <TextBlock Grid.Row="4" Grid.Column="1" Grid.ColumnSpan="2" Text="**Submit Order**" VerticalAlignment="Center" HorizontalAlignment="Center"/>
-
+        <Button Grid.Row="4" Grid.Column="0" Content="Add to Order" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+        <Button Grid.Row="4" Grid.Column="1" Grid.ColumnSpan="2" Content="Submit Order" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+        
+        <ListView Grid.Row="1" Grid.Column="0" Grid.RowSpan="2" Background="Green"/>
+        <ListView Grid.Row="2" Grid.Column="2" Background="Blue"/>
     </Grid>
+
+    <Page.TopAppBar>
+        <CommandBar FlowDirection="RightToLeft">
+            <AppBarButton x:ConnectionId='1' x:Name="abbHome2" Icon="Home" Label="Home" IsCompact="False"                       />
+        </CommandBar>
+    </Page.TopAppBar>
+
 </Page>
 

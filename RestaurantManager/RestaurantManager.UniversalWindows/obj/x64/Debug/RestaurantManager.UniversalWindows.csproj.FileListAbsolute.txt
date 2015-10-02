@@ -428,3 +428,4 @@ C:\Users\Master\Documents\Visual Studio 2015\Projects\XAML\RestaurantManager\Res
 C:\Users\Master\Documents\Visual Studio 2015\Projects\XAML\RestaurantManager\RestaurantManager.UniversalWindows\bin\x64\Debug\Core\SmallSquareLogo.scale-100.png
 C:\Users\Master\Documents\Visual Studio 2015\Projects\XAML\RestaurantManager\RestaurantManager.UniversalWindows\obj\x64\Debug\Core\LargeSquareLogo.scale-100.png
 C:\Users\Master\Documents\Visual Studio 2015\Projects\XAML\RestaurantManager\RestaurantManager.UniversalWindows\obj\x64\Debug\Core\Assets\SplashScreen.png
+C:\Users\Master\Documents\Visual Studio 2015\Projects\XAML\RestaurantManager\RestaurantManager.UniversalWindows\obj\x64\Debug\RestaurantManager.UniversalWindows.csprojResolveAssemblyReference.cache

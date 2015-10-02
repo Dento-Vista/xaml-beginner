@@ -12,6 +12,12 @@
             <RowDefinition Height="0.9*"/>
             <RowDefinition Height="0.1*" />
         </Grid.RowDefinitions>
-        <TextBlock Grid.Row="1" Text="**Clear All Orders**" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+        <Button x:Name="btnClearAllOrders" Grid.Row="1" Content="Clear All Orders" VerticalAlignment="Center" HorizontalAlignment="Center"/>
     </Grid>
+
+    <Page.TopAppBar>
+        <CommandBar FlowDirection="RightToLeft">
+            <AppBarButton x:Name="abbHome1" Icon="Home" Label="Home" IsCompact="False" Click="abbHome1_Click"/>            
+        </CommandBar>
+    </Page.TopAppBar>
 </Page>

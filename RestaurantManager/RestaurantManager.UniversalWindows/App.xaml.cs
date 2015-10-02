@@ -7,6 +7,7 @@ using Windows.ApplicationModel;
 using Windows.ApplicationModel.Activation;
 using Windows.Foundation;
 using Windows.Foundation.Collections;
+using Windows.UI.Core;
 using Windows.UI.Xaml;
 using Windows.UI.Xaml.Controls;
 using Windows.UI.Xaml.Controls.Primitives;
@@ -41,10 +42,10 @@ namespace RestaurantManager.UniversalWindows
         {
 
 #if DEBUG
-            if (System.Diagnostics.Debugger.IsAttached)
-            {
-                this.DebugSettings.EnableFrameRateCounter = true;
-            }
+            //if (System.Diagnostics.Debugger.IsAttached)
+            //{
+            //    this.DebugSettings.EnableFrameRateCounter = true;
+            //}
 #endif
 
             Frame rootFrame = Window.Current.Content as Frame;
@@ -76,6 +77,7 @@ namespace RestaurantManager.UniversalWindows
             }
             // Ensure the current window is active
             Window.Current.Activate();
+
         }
 
         /// <summary>
@@ -101,5 +103,6 @@ namespace RestaurantManager.UniversalWindows
             //TODO: Save application state and stop any background activity
             deferral.Complete();
         }
+
     }
 }
