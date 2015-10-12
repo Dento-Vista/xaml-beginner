@@ -1,0 +1,17 @@
+C:\Users\Master\Documents\Visual Studio 2015\Projects\XAML\RestaurantManager\RestaurantManager.Models\bin\x64\Debug\RestaurantManager.Models.dll
+C:\Users\Master\Documents\Visual Studio 2015\Projects\XAML\RestaurantManager\RestaurantManager.Models\bin\x64\Debug\RestaurantManager.Models.pdb
+C:\Users\Master\Documents\Visual Studio 2015\Projects\XAML\RestaurantManager\RestaurantManager.Models\bin\x64\Debug\RestaurantManager.Models.pri
+C:\Users\Master\Documents\Visual Studio 2015\Projects\XAML\RestaurantManager\RestaurantManager.Models\obj\x64\Debug\RestaurantManager.Models.dll
+C:\Users\Master\Documents\Visual Studio 2015\Projects\XAML\RestaurantManager\RestaurantManager.Models\obj\x64\Debug\RestaurantManager.Models.pdb
+C:\Users\Master\Documents\Visual Studio 2015\Projects\XAML\RestaurantManager\RestaurantManager.Models\obj\x64\Debug\ResourceHandlingTask.state
+C:\Users\Master\Documents\Visual Studio 2015\Projects\XAML\RestaurantManager\RestaurantManager.Models\obj\x64\Debug\priconfig.xml
+C:\Users\Master\Documents\Visual Studio 2015\Projects\XAML\RestaurantManager\RestaurantManager.Models\obj\x64\Debug\priconfig.xml.intermediate
+C:\Users\Master\Documents\Visual Studio 2015\Projects\XAML\RestaurantManager\RestaurantManager.Models\obj\x64\Debug\layout.resfiles
+C:\Users\Master\Documents\Visual Studio 2015\Projects\XAML\RestaurantManager\RestaurantManager.Models\obj\x64\Debug\layout.resfiles.intermediate
+C:\Users\Master\Documents\Visual Studio 2015\Projects\XAML\RestaurantManager\RestaurantManager.Models\obj\x64\Debug\resources.resfiles
+C:\Users\Master\Documents\Visual Studio 2015\Projects\XAML\RestaurantManager\RestaurantManager.Models\obj\x64\Debug\resources.resfiles.intermediate
+C:\Users\Master\Documents\Visual Studio 2015\Projects\XAML\RestaurantManager\RestaurantManager.Models\obj\x64\Debug\pri.resfiles
+C:\Users\Master\Documents\Visual Studio 2015\Projects\XAML\RestaurantManager\RestaurantManager.Models\obj\x64\Debug\pri.resfiles.intermediate
+C:\Users\Master\Documents\Visual Studio 2015\Projects\XAML\RestaurantManager\RestaurantManager.Models\obj\x64\Debug\qualifiers.txt
+C:\Users\Master\Documents\Visual Studio 2015\Projects\XAML\RestaurantManager\RestaurantManager.Models\obj\x64\Debug\qualifiers.txt.intermediate
+C:\Users\Master\Documents\Visual Studio 2015\Projects\XAML\RestaurantManager\RestaurantManager.Models\obj\x64\Debug\MultipleQualifiersPerDimensionFound.txt

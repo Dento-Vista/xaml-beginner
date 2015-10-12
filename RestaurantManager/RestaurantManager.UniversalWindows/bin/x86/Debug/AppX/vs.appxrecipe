@@ -10,7 +10,7 @@
     <PackageArchitecture>x86</PackageArchitecture>
     <PackageIdentityName>92f661dc-0201-45b0-a6b6-5a478dd2525a</PackageIdentityName>
     <IntermediateOutputPath>C:\Users\Master\Documents\Visual Studio 2015\Projects\XAML\RestaurantManager\RestaurantManager.UniversalWindows\obj\x86\Debug\</IntermediateOutputPath>
-    <RegisteredManifestChecksum>020E9ABB80B621AAA02CFA052392CA89B4D162781D116381403C1DD565893E6E</RegisteredManifestChecksum>
+    <RegisteredManifestChecksum>2D734E5E21115A26724917F371CB3C2699DC46063FEE8D084614224B0BC26A3A</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>92f661dc-0201-45b0-a6b6-5a478dd2525a_1.0.0.0_x86__yg0mesrapv0b4</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>92f661dc-0201-45b0-a6b6-5a478dd2525a_yg0mesrapv0b4!App</RegisteredUserModeAppID>
     <RegisteredPackageID>92f661dc-0201-45b0-a6b6-5a478dd2525a</RegisteredPackageID>
@@ -22,7 +22,7 @@
     <AppXManifest Include="C:\Users\Master\Documents\Visual Studio 2015\Projects\XAML\RestaurantManager\RestaurantManager.UniversalWindows\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2015-09-24T10:59:53.065</Modified>
+      <Modified>2015-10-11T05:11:33.253</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
@@ -36,7 +36,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Master\Documents\Visual Studio 2015\Projects\XAML\RestaurantManager\RestaurantManager.UniversalWindows\bin\x86\Debug\Core\Assets\SplashScreen.png">
       <PackagePath>Assets\SplashScreen.png</PackagePath>
-      <Modified>2015-09-24T10:44:03.824</Modified>
+      <Modified>2015-09-24T11:26:27.257</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Master\Documents\Visual Studio 2015\Projects\XAML\RestaurantManager\RestaurantManager.UniversalWindows\bin\x86\Debug\Core\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
@@ -48,7 +48,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Master\Documents\Visual Studio 2015\Projects\XAML\RestaurantManager\RestaurantManager.UniversalWindows\bin\x86\Debug\Core\entrypoint\RestaurantManager.UniversalWindows.exe">
       <PackagePath>entrypoint\RestaurantManager.UniversalWindows.exe</PackagePath>
-      <Modified>2015-09-24T10:59:51.554</Modified>
+      <Modified>2015-10-11T05:11:27.908</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Master\Documents\Visual Studio 2015\Projects\XAML\RestaurantManager\RestaurantManager.UniversalWindows\bin\x86\Debug\Core\LargeSquareLogo.scale-100.png">
+      <PackagePath>LargeSquareLogo.scale-100.png</PackagePath>
+      <Modified>2015-09-24T10:44:03.816</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Master\Documents\Visual Studio 2015\Projects\XAML\RestaurantManager\RestaurantManager.UniversalWindows\bin\x86\Debug\Core\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -68,15 +72,23 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Master\Documents\Visual Studio 2015\Projects\XAML\RestaurantManager\RestaurantManager.UniversalWindows\bin\x86\Debug\Core\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2015-09-24T10:59:52.361</Modified>
+      <Modified>2015-10-11T05:11:30.820</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Master\Documents\Visual Studio 2015\Projects\XAML\RestaurantManager\RestaurantManager.UniversalWindows\bin\x86\Debug\Core\RestaurantManager.Models.dll">
+      <PackagePath>RestaurantManager.Models.dll</PackagePath>
+      <Modified>2015-10-11T05:11:19.857</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Master\Documents\Visual Studio 2015\Projects\XAML\RestaurantManager\RestaurantManager.UniversalWindows\bin\x86\Debug\Core\RestaurantManager.Models\Properties\RestaurantManager.Models.rd.xml">
+      <PackagePath>RestaurantManager.Models\Properties\RestaurantManager.Models.rd.xml</PackagePath>
+      <Modified>2015-10-04T05:56:45.497</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Master\Documents\Visual Studio 2015\Projects\XAML\RestaurantManager\RestaurantManager.UniversalWindows\bin\x86\Debug\Core\RestaurantManager.UniversalWindows.exe">
       <PackagePath>RestaurantManager.UniversalWindows.exe</PackagePath>
-      <Modified>2015-09-24T10:59:53.063</Modified>
+      <Modified>2015-10-11T05:11:33.247</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Master\Documents\Visual Studio 2015\Projects\XAML\RestaurantManager\RestaurantManager.UniversalWindows\bin\x86\Debug\Core\RestaurantManager.UniversalWindows.xr.xml">
       <PackagePath>RestaurantManager.UniversalWindows.xr.xml</PackagePath>
-      <Modified>2015-09-22T09:20:11.126</Modified>
+      <Modified>2015-10-11T05:11:27.405</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Master\Documents\Visual Studio 2015\Projects\XAML\RestaurantManager\RestaurantManager.UniversalWindows\bin\x86\Debug\Core\System.AppContext.dll">
       <PackagePath>System.AppContext.dll</PackagePath>

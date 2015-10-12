@@ -7,7 +7,7 @@
     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
     mc:Ignorable="d">
 
-    <Grid Background="Black">
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
         <Grid.RowDefinitions>
             <RowDefinition Height="0.4*"/>
             <RowDefinition Height="0.1*" />
@@ -19,8 +19,8 @@
         </Grid.ColumnDefinitions>
         <TextBlock Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="2"  Text="Restaurant Manager" VerticalAlignment="Bottom" HorizontalAlignment="Center" FontSize="48"/>
         <TextBlock Grid.Row="1" Grid.Column="0" Grid.ColumnSpan="2"  Text="Internal Test Version" VerticalAlignment="Bottom" HorizontalAlignment="Center" FontSize="20"/>
-        <TextBlock Grid.Row="2" Grid.Column="0" Text="**Go to Orders View**" VerticalAlignment="Center" HorizontalAlignment="Center"/>
-        <TextBlock Grid.Row="2" Grid.Column="1" Text="**Submit Order**" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+        <Button x:ConnectionId='1' x:Name="btnGoToOrdersView" Grid.Row="2" Grid.Column="0" Content="Go to Orders View"                                />
+        <Button x:ConnectionId='2' x:Name="btnSubmitOrder" Grid.Row="2" Grid.Column="1" Content="Submit Order"                             />
     </Grid>
 </Page>
 

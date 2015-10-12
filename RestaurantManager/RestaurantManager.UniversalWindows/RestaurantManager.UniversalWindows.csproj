@@ -139,6 +139,12 @@
       <Generator>MSBuild:Compile</Generator>
     </Page>
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\RestaurantManager.Models\RestaurantManager.Models.csproj">
+      <Project>{91061593-b0ad-43dc-9f15-50ad4bd1a7cf}</Project>
+      <Name>RestaurantManager.Models</Name>
+    </ProjectReference>
+  </ItemGroup>
   <PropertyGroup Condition=" '$(VisualStudioVersion)' == '' or '$(VisualStudioVersion)' &lt; '14.0' ">
     <VisualStudioVersion>14.0</VisualStudioVersion>
   </PropertyGroup>

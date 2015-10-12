@@ -5,20 +5,27 @@
     xmlns:local="using:RestaurantManager.UniversalWindows"
     xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    DataContext="{StaticResource ResourceKey=DataManager}"
     mc:Ignorable="d">
-
-    <Grid Background="Black">
+       
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
         <Grid.RowDefinitions>
-            <RowDefinition Height="0.9*"/>
+            <RowDefinition Height="0.1*"/>
+            <RowDefinition Height="0.8*"/>
             <RowDefinition Height="0.1*" />
         </Grid.RowDefinitions>
-        <Button x:ConnectionId='1' x:Name="btnClearAllOrders" Grid.Row="1" Content="Clear All Orders" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+        <AppBar Grid.Row="0">
+            <AppBarButton x:ConnectionId='3' x:Name="abbHome1" Icon="Home" Label="Home" IsCompact="False"                       />
+        </AppBar>
+        <ListView x:ConnectionId='1' x:Name="lvExpediteList" Grid.Row="1" ItemsSource="{Binding OrderItems}">
+            <ListView.ItemsPanel>
+                <ItemsPanelTemplate>
+                    <StackPanel Orientation="Horizontal" VerticalAlignment="Top"/>
+                </ItemsPanelTemplate>
+            </ListView.ItemsPanel>
+        </ListView>
+        <Button x:ConnectionId='2' x:Name="btnClearAllOrders" Grid.Row="2" Content="Clear All Orders"/>
     </Grid>
 
-    <Page.TopAppBar>
-        <CommandBar FlowDirection="RightToLeft">
-            <AppBarButton x:ConnectionId='2' x:Name="abbHome1" Icon="Home" Label="Home" IsCompact="False"                       />            
-        </CommandBar>
-    </Page.TopAppBar>
 </Page>
 

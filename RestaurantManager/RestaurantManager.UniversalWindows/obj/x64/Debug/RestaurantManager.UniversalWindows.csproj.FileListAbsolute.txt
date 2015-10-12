@@ -425,7 +425,15 @@ C:\Users\Master\Documents\Visual Studio 2015\Projects\XAML\RestaurantManager\Res
 C:\Users\Master\Documents\Visual Studio 2015\Projects\XAML\RestaurantManager\RestaurantManager.UniversalWindows\obj\x64\Debug\Core\WinMetadata\Windows.winmd
 C:\Users\Master\Documents\Visual Studio 2015\Projects\XAML\RestaurantManager\RestaurantManager.UniversalWindows\obj\x64\Debug\Core\resources.pri
 C:\Users\Master\Documents\Visual Studio 2015\Projects\XAML\RestaurantManager\RestaurantManager.UniversalWindows\bin\x64\Debug\Core\LargeSquareLogo.scale-100.png
-C:\Users\Master\Documents\Visual Studio 2015\Projects\XAML\RestaurantManager\RestaurantManager.UniversalWindows\bin\x64\Debug\Core\SmallSquareLogo.scale-100.png
 C:\Users\Master\Documents\Visual Studio 2015\Projects\XAML\RestaurantManager\RestaurantManager.UniversalWindows\obj\x64\Debug\Core\LargeSquareLogo.scale-100.png
 C:\Users\Master\Documents\Visual Studio 2015\Projects\XAML\RestaurantManager\RestaurantManager.UniversalWindows\obj\x64\Debug\Core\Assets\SplashScreen.png
 C:\Users\Master\Documents\Visual Studio 2015\Projects\XAML\RestaurantManager\RestaurantManager.UniversalWindows\obj\x64\Debug\RestaurantManager.UniversalWindows.csprojResolveAssemblyReference.cache
+C:\Users\Master\Documents\Visual Studio 2015\Projects\XAML\RestaurantManager\RestaurantManager.UniversalWindows\bin\x64\Debug\Core\RestaurantManager.Models.dll
+C:\Users\Master\Documents\Visual Studio 2015\Projects\XAML\RestaurantManager\RestaurantManager.UniversalWindows\bin\x64\Debug\Core\RestaurantManager.Models.pdb
+C:\Users\Master\Documents\Visual Studio 2015\Projects\XAML\RestaurantManager\RestaurantManager.UniversalWindows\bin\x64\Debug\Core\RestaurantManager.Models\Properties\RestaurantManager.Models.rd.xml
+C:\Users\Master\Documents\Visual Studio 2015\Projects\XAML\RestaurantManager\RestaurantManager.UniversalWindows\bin\x64\Debug\RestaurantManager.Models.dll
+C:\Users\Master\Documents\Visual Studio 2015\Projects\XAML\RestaurantManager\RestaurantManager.UniversalWindows\bin\x64\Debug\RestaurantManager.Models.pdb
+C:\Users\Master\Documents\Visual Studio 2015\Projects\XAML\RestaurantManager\RestaurantManager.UniversalWindows\bin\x64\Debug\RestaurantManager.Models.pri
+C:\Users\Master\Documents\Visual Studio 2015\Projects\XAML\RestaurantManager\RestaurantManager.UniversalWindows\obj\x64\Debug\Core\RestaurantManager.Models.pdb
+C:\Users\Master\Documents\Visual Studio 2015\Projects\XAML\RestaurantManager\RestaurantManager.UniversalWindows\obj\x64\Debug\Core\RestaurantManager.Models.dll
+C:\Users\Master\Documents\Visual Studio 2015\Projects\XAML\RestaurantManager\RestaurantManager.UniversalWindows\obj\x64\Debug\Core\RestaurantManager.Models\Properties\RestaurantManager.Models.rd.xml
